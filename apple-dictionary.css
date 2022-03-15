@@ -1,0 +1,63 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f2f2f6;
+}
+
+.content {
+  margin: 20px 10px 20px 10px;
+  padding: 50px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.title {
+  font-size: 26px;
+}
+
+.pronunciation {
+  color: gray;
+  font-size: 20px;
+}
+
+.pos {
+  margin: 10px 0 0 0;
+  font-size: 18px;
+}
+
+.definition {
+  margin: 10px 0 20px 0;
+}
+
+.definition li {
+  margin: 10px 0 10px 0;
+}
+
+h2 {
+  margin: 20px 0 0 0;
+  font-size: 14px;
+  font-weight: normal;
+  color: gray;
+}
+
+hr {
+  margin: 5px 0 7px 0;
+}
+
+.form {
+  font-weight: bold;
+}
+
+.label {
+  color: gray;
+  font-style: italic;
+  font-weight: initial;
+}
+
+.example {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.phrases, .derivatives, .origin {
+  margin: 0 0 0 20px;
+}
